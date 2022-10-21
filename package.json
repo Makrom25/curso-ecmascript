@@ -1,0 +1,23 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Makrom25/curso-ecmaescript.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript"
+  ],
+  "author": "Juan Cammilo Ramirez <jcra.juancamilo@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Makrom25/curso-ecmaescript/issues"
+  },
+  "homepage": "https://github.com/Makrom25/curso-ecmaescript#readme"
+}
