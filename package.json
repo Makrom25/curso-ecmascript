@@ -12,8 +12,5 @@
   },
   "author": "juan camilo <jcra.juancamilo@gmail.com>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Makrom25/curso-ecmascript/issues"
-  },
-  "homepage": "https://github.com/Makrom25/curso-ecmascript#readme"
+  "type" : "module"
 }
