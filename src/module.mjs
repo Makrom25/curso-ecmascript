@@ -1,5 +1,5 @@
 const hola = () => {
- console.log('Hola')
+    console.log('Hola')
 }
 
 export default hola
